@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RSS Office</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link href="{{ url_for('static', filename='dist/main.css') }}" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <feed-list></feed-list>
+    </div>
+    <script src="{{ url_for('static', filename='dist/js/main.js') }}"></script>
+</body>
+</html> 
