@@ -1,0 +1,60 @@
+2024-11-25 02:23:46,974 - feed_parser - INFO - Created cache file: /Users/mymac/Desktop/myApp/ofis/19/cache/translation_cache.json
+2024-11-25 02:23:46,974 - feed_parser - INFO - Created cache file: /Users/mymac/Desktop/myApp/ofis/19/cache/feed_cache.json
+2024-11-25 02:23:46,975 - feed_parser - INFO - Initialized translation cache with 0 entries
+2024-11-25 02:23:46,975 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:47,848 - feed_parser - INFO - Initialized translation cache with 0 entries
+2024-11-25 02:23:47,848 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:51,694 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:51,727 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:51,766 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:51,772 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:51,779 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:51,793 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:51,796 - feed_parser - INFO - Initialized feed cache with 0 entries
+2024-11-25 02:23:56,163 - feed_parser - INFO - Successfully processed feed: https://notesfrompoland.com/feed/
+2024-11-25 02:23:59,797 - feed_parser - INFO - Successfully processed feed: https://defence24.pl/_RSS
+2024-11-25 02:24:03,295 - feed_parser - INFO - Successfully processed feed: https://cyberdefence24.pl/_rss
+2024-11-25 02:24:06,871 - feed_parser - INFO - Successfully processed feed: https://infosecurity24.pl/_rss
+2024-11-25 02:24:10,399 - feed_parser - INFO - Successfully processed feed: https://warsawnow.pl/feed/
+2024-11-25 02:24:14,053 - feed_parser - INFO - Successfully processed feed: https://defence24.com/_rss
+2024-11-25 02:24:17,649 - feed_parser - INFO - Successfully processed feed: https://politepol.com/fd/iv5sCQcuO3FS.xml
+2024-11-25 02:24:17,651 - feed_parser - ERROR - Error generating feed report: 'feed_report'
+2024-11-25 02:24:22,174 - feed_parser - INFO - Initialized feed cache with 1 entries
+2024-11-25 02:24:22,175 - feed_parser - INFO - Initialized feed cache with 1 entries
+2024-11-25 02:24:22,176 - feed_parser - INFO - Initialized feed cache with 1 entries
+2024-11-25 02:24:22,179 - feed_parser - INFO - Initialized feed cache with 1 entries
+2024-11-25 02:24:22,180 - feed_parser - INFO - Initialized feed cache with 1 entries
+2024-11-25 02:24:22,180 - feed_parser - INFO - Initialized feed cache with 1 entries
+2024-11-25 02:24:22,183 - feed_parser - INFO - Initialized feed cache with 1 entries
+2024-11-25 02:24:22,436 - feed_parser - INFO - Successfully processed feed: https://notesfrompoland.com/feed/
+2024-11-25 02:24:22,647 - feed_parser - INFO - Successfully processed feed: https://cyberdefence24.pl/_rss
+2024-11-25 02:24:22,813 - feed_parser - INFO - Successfully processed feed: https://infosecurity24.pl/_rss
+2024-11-25 02:24:22,950 - feed_parser - INFO - Successfully processed feed: https://defence24.pl/_RSS
+2024-11-25 02:24:23,100 - feed_parser - INFO - Successfully processed feed: https://defence24.com/_rss
+2024-11-25 02:24:23,360 - feed_parser - INFO - Successfully processed feed: https://warsawnow.pl/feed/
+2024-11-25 02:24:23,361 - feed_parser - ERROR - Error generating feed report: 'feed_report'
+2024-11-25 02:24:24,728 - feed_parser - INFO - Initialized feed cache with 2 entries
+2024-11-25 02:24:24,729 - feed_parser - INFO - Initialized feed cache with 2 entries
+2024-11-25 02:24:24,730 - feed_parser - INFO - Initialized feed cache with 2 entries
+2024-11-25 02:24:24,732 - feed_parser - INFO - Initialized feed cache with 2 entries
+2024-11-25 02:24:24,733 - feed_parser - INFO - Initialized feed cache with 2 entries
+2024-11-25 02:24:24,735 - feed_parser - INFO - Initialized feed cache with 2 entries
+2024-11-25 02:24:24,736 - feed_parser - INFO - Initialized feed cache with 2 entries
+2024-11-25 02:24:24,904 - feed_parser - INFO - Successfully processed feed: https://cyberdefence24.pl/_rss
+2024-11-25 02:24:25,069 - feed_parser - INFO - Successfully processed feed: https://defence24.pl/_RSS
+2024-11-25 02:24:25,242 - feed_parser - INFO - Successfully processed feed: https://infosecurity24.pl/_rss
+2024-11-25 02:24:25,352 - feed_parser - INFO - Successfully processed feed: https://defence24.com/_rss
+2024-11-25 02:24:25,553 - feed_parser - INFO - Successfully processed feed: https://notesfrompoland.com/feed/
+2024-11-25 02:24:25,560 - feed_parser - ERROR - Error generating feed report: 'feed_report'
+2024-11-25 02:24:28,867 - feed_parser - INFO - Initialized feed cache with 3 entries
+2024-11-25 02:24:28,868 - feed_parser - INFO - Initialized feed cache with 3 entries
+2024-11-25 02:24:28,873 - feed_parser - INFO - Initialized feed cache with 3 entries
+2024-11-25 02:24:28,874 - feed_parser - INFO - Initialized feed cache with 3 entries
+2024-11-25 02:24:28,875 - feed_parser - INFO - Initialized feed cache with 3 entries
+2024-11-25 02:24:28,878 - feed_parser - INFO - Initialized feed cache with 3 entries
+2024-11-25 02:24:28,879 - feed_parser - INFO - Initialized feed cache with 3 entries
+2024-11-25 02:24:29,043 - feed_parser - INFO - Successfully processed feed: https://cyberdefence24.pl/_rss
+2024-11-25 02:24:29,159 - feed_parser - INFO - Successfully processed feed: https://defence24.com/_rss
+2024-11-25 02:24:29,327 - feed_parser - INFO - Successfully processed feed: https://infosecurity24.pl/_rss
+2024-11-25 02:24:29,460 - feed_parser - INFO - Successfully processed feed: https://defence24.pl/_RSS
+2024-11-25 02:24:29,462 - feed_parser - ERROR - Error generating feed report: 'feed_report'
